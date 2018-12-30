@@ -1,0 +1,9 @@
+D:\C# workspace\task1\task1\obj\x86\Debug\task1.csprojAssemblyReference.cache
+D:\C# workspace\task1\task1\obj\x86\Debug\task1.Properties.Resources.resources
+D:\C# workspace\task1\task1\obj\x86\Debug\task1.csproj.GenerateResource.cache
+D:\C# workspace\task1\task1\obj\x86\Debug\task1.csproj.CoreCompileInputs.cache
+D:\C# workspace\task1\task1\bin\Debug\task1.exe
+D:\C# workspace\task1\task1\bin\Debug\task1.pdb
+D:\C# workspace\task1\task1\obj\x86\Debug\task1.Form1.resources
+D:\C# workspace\task1\task1\obj\x86\Debug\task1.exe
+D:\C# workspace\task1\task1\obj\x86\Debug\task1.pdb

@@ -1,0 +1,14 @@
+D:\C# workspace\task2\task2\obj\Debug\task2.csprojAssemblyReference.cache
+D:\C# workspace\task2\task2\obj\Debug\task2.EditInfoForm.resources
+D:\C# workspace\task2\task2\obj\Debug\task2.registerForm.resources
+D:\C# workspace\task2\task2\obj\Debug\task2.Properties.Resources.resources
+D:\C# workspace\task2\task2\obj\Debug\task2.csproj.GenerateResource.cache
+D:\C# workspace\task2\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+D:\C# workspace\task2\task2\bin\Debug\task2.exe.config
+D:\C# workspace\task2\task2\bin\Debug\task2.exe
+D:\C# workspace\task2\task2\bin\Debug\task2.pdb
+D:\C# workspace\task2\task2\bin\Debug\MySql.Data.xml
+D:\C# workspace\task2\task2\obj\Debug\task2.csproj.CopyComplete
+D:\C# workspace\task2\task2\obj\Debug\task2.exe
+D:\C# workspace\task2\task2\obj\Debug\task2.pdb
+D:\C# workspace\task2\task2\bin\Debug\MySQLDriverCS.dll

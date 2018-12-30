@@ -1,0 +1,39 @@
+C:\Users\jie.jie-PC\Desktop\c#dataADUstudy\dataADUstudy\dataADUstudy\bin\Debug\dataADUstudy.exe
+C:\Users\jie.jie-PC\Desktop\c#dataADUstudy\dataADUstudy\dataADUstudy\bin\Debug\dataADUstudy.pdb
+C:\Users\jie.jie-PC\Desktop\c#dataADUstudy\dataADUstudy\dataADUstudy\obj\x86\Debug\dataADUstudy.ZhuChaiDan.resources
+C:\Users\jie.jie-PC\Desktop\c#dataADUstudy\dataADUstudy\dataADUstudy\obj\x86\Debug\dataADUstudy.Properties.Resources.resources
+C:\Users\jie.jie-PC\Desktop\c#dataADUstudy\dataADUstudy\dataADUstudy\obj\x86\Debug\dataADUstudy.csproj.GenerateResource.Cache
+C:\Users\jie.jie-PC\Desktop\c#dataADUstudy\dataADUstudy\dataADUstudy\obj\x86\Debug\dataADUstudy.exe
+C:\Users\jie.jie-PC\Desktop\c#dataADUstudy\dataADUstudy\dataADUstudy\obj\x86\Debug\dataADUstudy.pdb
+C:\Users\jie.jie-PC\Desktop\c#dataADUstudy\dataADUstudy\dataADUstudy\obj\x86\Debug\dataADUstudy.csprojResolveAssemblyReference.cache
+C:\Users\jie.jie-PC\Desktop\c#dataADUstudy\dataADUstudy\dataADUstudy\bin\Debug\MySql.Data.dll
+C:\Users\jie.jie-PC\Desktop\c#dataADUstudy\dataADUstudy\dataADUstudy\obj\x86\Debug\dataADUstudy.窗口程序.login.resources
+C:\Users\jie.jie-PC\Desktop\c#dataADUstudy\dataADUstudy\dataADUstudy\obj\x86\Debug\dataADUstudy.窗口程序.regist.resources
+C:\Users\yilisha andrea\Desktop\dataADUstudy\dataADUstudy\bin\Debug\dataADUstudy.exe
+C:\Users\yilisha andrea\Desktop\dataADUstudy\dataADUstudy\bin\Debug\dataADUstudy.pdb
+C:\Users\yilisha andrea\Desktop\dataADUstudy\dataADUstudy\bin\Debug\MySql.Data.dll
+C:\Users\yilisha andrea\Desktop\dataADUstudy\dataADUstudy\bin\Debug\MySql.Data.xml
+C:\Users\yilisha andrea\Desktop\dataADUstudy\dataADUstudy\obj\x86\Debug\dataADUstudy.csprojAssemblyReference.cache
+C:\Users\yilisha andrea\Desktop\dataADUstudy\dataADUstudy\obj\x86\Debug\dataADUstudy.窗口程序.login.resources
+C:\Users\yilisha andrea\Desktop\dataADUstudy\dataADUstudy\obj\x86\Debug\dataADUstudy.窗口程序.regist.resources
+C:\Users\yilisha andrea\Desktop\dataADUstudy\dataADUstudy\obj\x86\Debug\dataADUstudy.ZhuChaiDan.resources
+C:\Users\yilisha andrea\Desktop\dataADUstudy\dataADUstudy\obj\x86\Debug\dataADUstudy.Properties.Resources.resources
+C:\Users\yilisha andrea\Desktop\dataADUstudy\dataADUstudy\obj\x86\Debug\dataADUstudy.csproj.GenerateResource.cache
+C:\Users\yilisha andrea\Desktop\dataADUstudy\dataADUstudy\obj\x86\Debug\dataADUstudy.csproj.CoreCompileInputs.cache
+C:\Users\yilisha andrea\Desktop\dataADUstudy\dataADUstudy\obj\x86\Debug\dataADUstudy.csproj.CopyComplete
+C:\Users\yilisha andrea\Desktop\dataADUstudy\dataADUstudy\obj\x86\Debug\dataADUstudy.exe
+C:\Users\yilisha andrea\Desktop\dataADUstudy\dataADUstudy\obj\x86\Debug\dataADUstudy.pdb
+D:\C# workspace\dataADUstudy\dataADUstudy\bin\Debug\dataADUstudy.exe
+D:\C# workspace\dataADUstudy\dataADUstudy\bin\Debug\dataADUstudy.pdb
+D:\C# workspace\dataADUstudy\dataADUstudy\bin\Debug\MySql.Data.dll
+D:\C# workspace\dataADUstudy\dataADUstudy\bin\Debug\MySql.Data.xml
+D:\C# workspace\dataADUstudy\dataADUstudy\obj\x86\Debug\dataADUstudy.csprojAssemblyReference.cache
+D:\C# workspace\dataADUstudy\dataADUstudy\obj\x86\Debug\dataADUstudy.窗口程序.login.resources
+D:\C# workspace\dataADUstudy\dataADUstudy\obj\x86\Debug\dataADUstudy.窗口程序.regist.resources
+D:\C# workspace\dataADUstudy\dataADUstudy\obj\x86\Debug\dataADUstudy.ZhuChaiDan.resources
+D:\C# workspace\dataADUstudy\dataADUstudy\obj\x86\Debug\dataADUstudy.Properties.Resources.resources
+D:\C# workspace\dataADUstudy\dataADUstudy\obj\x86\Debug\dataADUstudy.csproj.GenerateResource.cache
+D:\C# workspace\dataADUstudy\dataADUstudy\obj\x86\Debug\dataADUstudy.csproj.CoreCompileInputs.cache
+D:\C# workspace\dataADUstudy\dataADUstudy\obj\x86\Debug\dataADUstudy.csproj.CopyComplete
+D:\C# workspace\dataADUstudy\dataADUstudy\obj\x86\Debug\dataADUstudy.exe
+D:\C# workspace\dataADUstudy\dataADUstudy\obj\x86\Debug\dataADUstudy.pdb
